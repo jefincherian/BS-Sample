@@ -1,0 +1,26 @@
+12:01:25.502 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:01:25.552 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./WikipediaSample.apk to browserstack
+12:01:45.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/d100210521a6fbd63625761ebe3a67f6c169b414"}
+12:01:45.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://d100210521a6fbd63625761ebe3a67f6c169b414]
+12:01:45.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:01:45.946 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+12:03:29.351 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+12:03:32.219 [main] INFO  c.b.config.BrowserStackConfig - INFO
+12:03:32.511 [main] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error - javassist.CannotCompileException: [source error] no such field: $2
+12:04:14.128 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
+12:04:14.358 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/bc84fc902dd1d74e69ede58875799a75c59407c4
+12:04:14.359 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+15:33:50.573 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:37:05.865 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:37:05.923 [main] INFO  c.browserstack.BrowserStackJavaAgent - uploading app ./WikipediaSample.apk to browserstack
+15:37:16.819 [main] INFO  c.browserstack.BrowserStackJavaAgent - app upload completed: {"app_url":"bs:\/\/d100210521a6fbd63625761ebe3a67f6c169b414"}
+15:37:16.820 [main] INFO  c.browserstack.BrowserStackJavaAgent - Using app: [bs://d100210521a6fbd63625761ebe3a67f6c169b414]
+15:37:16.820 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:37:16.820 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+15:37:21.838 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+15:37:24.736 [main] INFO  c.b.config.BrowserStackConfig - INFO
+15:37:25.024 [main] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error - javassist.CannotCompileException: [source error] no such field: $2
+15:39:18.684 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+15:39:20.203 [Thread-1] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://app-automate.browserstack.com/dashboard/v2/builds/4c0885b0a1e788d6b3d79975beccf66fc5093da7
+15:39:20.204 [Thread-1] INFO  c.b.config.BrowserStackConfig - INFO
+15:39:21.511 [Thread-0] INFO  com.browserstack.LocalFactory - BrowserStack Local Stopped Successfully.
